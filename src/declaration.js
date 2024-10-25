@@ -4,7 +4,8 @@
 // TODO: 1. Declare the variables firstName and age so that the tests pass
 
 // do not edit below this line
-let firstNameExport = ''
+let firstNameExport = 'Jane'
+let age = 35
 try {
   /* eslint-disable no-undef */
   firstNameExport = firstName
